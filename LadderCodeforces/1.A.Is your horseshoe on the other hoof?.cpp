@@ -1,7 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define optimizar_io ios_base::sync_with_stdio(0); cin.tie(0);
- 
+
 int main(){
   map<long long int, int> cubeta;
   int numero;
