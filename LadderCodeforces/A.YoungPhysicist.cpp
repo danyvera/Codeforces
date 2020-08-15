@@ -2,6 +2,8 @@
 using namespace std;
 #define optimizar_io ios_base::sync_with_stdio(0); cin.tie(0);
 #define MAX 105
+
+//link del problema en codeforces: https://codeforces.com/problemset/problem/69/A
  
 // Encontrar si el objeto en coordenadas (x,y,z) está en equilibrio, en caso de que lo esté, la suma de los n vectores dados, debe ser cero 
  
