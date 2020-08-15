@@ -2,6 +2,7 @@
 using namespace std;
 #include <iostream>
 #include <string>
+//link del problema en codeforces: https://codeforces.com/problemset/problem/32/B
  
 int main(){
   //Ternary numeric notation is quite popular in Berland. To telegraph the ternary number the Borze alphabet is used. 
