@@ -1,3 +1,3 @@
 # Codeforces
-Contest Group by Club de Algoritmia ESCOM
-link of the contest in codeforces: https://codeforces.com/group/qIY7ZvyLiK/contest/279182
+My solutions of some contest in Codeforces
+My username in Codeforces is: DanielaVera
