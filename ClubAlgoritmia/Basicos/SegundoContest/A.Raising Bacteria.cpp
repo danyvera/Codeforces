@@ -1,5 +1,5 @@
 //Problema en CODEFORCES: A. Raising Bacteria
-//link del problema en codeforces: https://codeforces.com/contest/579/submission/100657944
+//link del problema en codeforces: https://codeforces.com/contest/579/problem/A
 
 #include<bits/stdc++.h>
 using namespace std;
